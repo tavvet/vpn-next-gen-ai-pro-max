@@ -13,9 +13,15 @@ The world has enough VPNs. What it lacks is **VPN naming innovation**.
 | Packet loss | Undefined | "0 observed lost packets" |
 | Customer acquisition cost | Undefined | "Efficient" |
 | Margin | Undefined | "AI optimized" |
-| Valuation | None | "$25 billion" |
+| Valuation | None | "$180 billion" (fictional; revised upward after our press department interviewed itself) |
 
 The pitch-deck column is satire, not financial information.
+
+## Media traction
+
+We have received exactly **zero verified independent press mentions** and have therefore created our own media operation.
+
+**[→ Read the Press & Media Center](PRESS.md)** — all articles are explicitly fictional, self-authored satire, not endorsements.
 
 ## Frequently asked investor questions
 
