@@ -6,6 +6,10 @@
 
 Welcome to the official documentation for the world's most comprehensively documented *non-connection*.
 
+## Why choose us?
+
+Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategic benefits of deploying a zero-packet architecture and why it should never be mistaken for a real VPN.
+
 ## Product documentation
 
 | Area | Documentation | Operational objective |
