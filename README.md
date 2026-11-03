@@ -12,11 +12,22 @@
 > [!CAUTION]
 > **THIS IS A PARODY. NOT A REAL VPN.** It does not create tunnels, encrypt traffic, provide privacy, sell subscriptions, or offer investments. Do not use it for network security.
 
+## 🚀 Interplanetary Connectivity™ — Starman Edition
+
+**Our signal to Elon Musk's Tesla Roadster in space travels at nearly the speed of light!***
+
+**299,792,458 m/s** theoretical signal propagation speed in vacuum. **0 packets sent. 0 tunnels established.**
+
+*The laws of physics describe the theoretical speed, not our actual VPN. No signal is being sent; throughput and RTT are undefined. Our space division is entirely fictional.*
+
+**[→ Interplanetary Connectivity: Read the Whitepaper](docs/INTERPLANETARY_CONNECTIVITY.md)**
+
 ## 🏆 Why Choose Us?
 
 **Because other VPNs are distracted by things like *working*.**
 
 - **Zero-copy architecture:** zero packets transmitted, zero packets copied.
+- **Interplanetary speed:** the speed of light is remarkably fast when you don't actually transmit anything.
 - **AI-native:** it says AI in the product name. Due diligence complete.
 - **Global compliance:** we have fictional UK and Australia restrictions *before* launching a network service.
 - **Precision benchmarking:** no false 0 ms p99 — we report **undefined**, as mathematics intended.
@@ -37,7 +48,7 @@ Our documentation is production-grade. Unlike the product.
 | [CLI reference](docs/CLI_REFERENCE.md) | [NGT/0 protocol spec](docs/PROTOCOL.md) | [Regional compliance](docs/COMPLIANCE.md) |
 | [Operations runbook](docs/OPERATIONS.md) | [Benchmark methodology](docs/BENCHMARKS.md) | [Architecture decisions](docs/adr/README.md) |
 | [FAQ](docs/FAQ.md) | [Product status](docs/STATUS.md) | [Investor relations](docs/INVESTOR_RELATIONS.md) |
-| [Why choose us?](docs/WHY_CHOOSE_US.md) | [Roadmap](ROADMAP.md) | [Contributing](CONTRIBUTING.md) |
+| [Why choose us?](docs/WHY_CHOOSE_US.md) | [Interplanetary Connectivity™](docs/INTERPLANETARY_CONNECTIVITY.md) | [Contributing](CONTRIBUTING.md) |
 
 **[→ Browse the entire documentation portal](docs/README.md)**
 
