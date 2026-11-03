@@ -1,5 +1,8 @@
 # VPN Next Gen AI Pro Max™ — Documentation Center
 
+![Global Compliance Center promotional banner](../assets/global-compliance.svg)
+
+
 > **Documentation channel:** Enterprise Preview · **Product:** VPN Next Gen AI Pro Max™ · **Protocol:** NGT/0
 
 **Notice:** This is a parody repository, not a functioning VPN. Its programs only print messages. No network privacy or security is provided.
