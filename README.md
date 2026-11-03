@@ -12,6 +12,31 @@
 > [!CAUTION]
 > **THIS IS A PARODY. NOT A REAL VPN.** It does not create tunnels, encrypt traffic, provide privacy, sell subscriptions, or offer investments. Do not use it for network security.
 
+## 📚 Documentation — Enterprise Knowledge Center
+
+Our documentation is production-grade. Unlike the product.
+
+| Start here | Engineering | Governance |
+| --- | --- | --- |
+| [Getting started](docs/GETTING_STARTED.md) | [System architecture](docs/ARCHITECTURE.md) | [Security model](docs/SECURITY.md) |
+| [CLI reference](docs/CLI_REFERENCE.md) | [NGT/0 protocol spec](docs/PROTOCOL.md) | [Regional compliance](docs/COMPLIANCE.md) |
+| [Operations runbook](docs/OPERATIONS.md) | [Benchmark methodology](docs/BENCHMARKS.md) | [Architecture decisions](docs/adr/README.md) |
+| [FAQ](docs/FAQ.md) | [Product status](docs/STATUS.md) | [Investor relations](docs/INVESTOR_RELATIONS.md) |
+
+**[→ Browse the entire documentation portal](docs/README.md)**
+
+### 🌐 Regional availability: UK & Australia
+
+Our compliance division has deployed a **fictional** regional restriction simulator. It performs no IP lookup, location detection, or network blocking — the region is **only the text you type**.
+
+~~~sh
+cargo run -- geo-check uk     # BLOCKED: awaiting tea-based identity verification
+cargo run -- geo-check au     # BLOCKED: kangaroo-grade compliance review
+cargo run -- geo-check other  # APPROVED: still no VPN
+~~~
+
+No real jurisdiction or law is being described here. Read the full [Global Compliance Dossier](docs/COMPLIANCE.md).
+
 ## The disruptive vision
 
 Other VPNs sell speed, privacy, and reliability. We sell **more adjectives**.
@@ -53,6 +78,8 @@ cargo run -- --help
 cargo run -- connect
 cargo run -- benchmark
 cargo run -- audit
+cargo run -- geo-check uk
+cargo run -- geo-check au
 cargo run -- ipo
 cargo test
 ```
@@ -84,6 +111,8 @@ cargo test
 
 ## Architecture
 
+See the [architecture reference](docs/ARCHITECTURE.md), [formal NGT/0 protocol](docs/PROTOCOL.md), [security whitepaper](docs/SECURITY.md), and [benchmark methodology](docs/BENCHMARKS.md).
+
 ```text
 [User Expectations] --> [Rust CLI] --> [stdout: "COMING SOON"]
                                 X
@@ -104,7 +133,7 @@ cargo test
 - [ ] IPO.
 - [ ] Consider implementing a VPN as a post-IPO stretch goal.
 
-See [ROADMAP.md](ROADMAP.md) and [Investor Relations](docs/INVESTOR_RELATIONS.md).
+See [ROADMAP.md](ROADMAP.md), [Product Status](docs/STATUS.md) and [Investor Relations](docs/INVESTOR_RELATIONS.md).
 
 ## FAQ
 
@@ -125,6 +154,10 @@ See [ROADMAP.md](ROADMAP.md) and [Investor Relations](docs/INVESTOR_RELATIONS.md
 **Can I get a refund?** We will return the full $0 you paid.
 
 **Can I contribute?** Yes. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**Is it available in the UK or Australia?** In reality, the CLI runs everywhere. In our imaginary compliance universe, the paperwork has concerns. [Details](docs/COMPLIANCE.md).
+
+**Where are the docs?** [All 13 departments have filed their reports.](docs/README.md)
 
 ---
 
