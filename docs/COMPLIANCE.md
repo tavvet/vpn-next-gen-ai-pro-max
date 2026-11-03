@@ -1,5 +1,8 @@
 # Global Compliance & Regional Availability
 
+![Satirical Global Compliance Center promotional banner](../assets/global-compliance.svg)
+
+
 **Policy ID:** GLOBAL-REGULATORY-VIBES-001  
 **Last review:** Pending · **Legal standing:** None (parody) · **Customer impact:** Zero
 
