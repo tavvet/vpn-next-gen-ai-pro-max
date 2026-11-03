@@ -26,6 +26,31 @@
 
 **[→ Interplanetary Connectivity: Read the Whitepaper](docs/INTERPLANETARY_CONNECTIVITY.md)**
 
+## 📦 Worldwide Packet Delivery™ — Now via International Logistics
+
+**Why route packets through the internet when the world already has a delivery infrastructure?**
+
+Our *Global Packet Delivery Network (GPDN/0)* introduces fictional packet-by-parcel forwarding through an imaginary worldwide network of international sorting centers.
+
+**How it allegedly works:** IP packet → printed paper → cardboard encapsulation → regional sorting hub → intercontinental warehouse → signature-based ACK → return receipt.
+
+- **Routing:** international sorting centers, none actually connected.
+- **Congestion control:** warehouse queues and holiday delays.
+- **Maximum Truck Unit:** packets larger than one box are fragmented into multiple parcels.
+- **End-to-end latency:** theoretically **2–14 business days** (made-up estimate, not measured).
+- **Carrier partnerships:** **zero**. No real delivery networks are affiliated or named.
+- **Actual dispatched parcels and packets:** **zero**. Our CLI remains network-free.
+
+**[→ Read the GPDN/0 Global Packet Delivery Whitepaper](docs/GLOBAL_PACKET_DELIVERY.md)**
+
+Try our free, harmless local simulation:
+
+~~~sh
+cargo run -- parcel
+~~~
+
+*It only prints a fake shipping manifest. No parcels, network packets or personal information are sent.*
+
 ## 🏆 Why Choose Us?
 
 **Because other VPNs are distracted by things like *working*.**
@@ -37,6 +62,7 @@
 - **Precision benchmarking:** no false 0 ms p99 — we report **undefined**, as mathematics intended.
 - **No vendor lock-in:** there's no vendor service to lock you into.
 - **Rust-powered:** the compiler is our most senior engineer.
+- **Worldwide packet delivery:** our imaginary logistics layer offers parcel shipping with zero actual couriers involved.
 - **Interplanetary speed:** our marketing reaches Elon Musk's Tesla Roadster at almost light speed. The actual VPN still sends zero packets. [Starman Edition →](docs/INTERPLANETARY_CONNECTIVITY.md)
 
 > "I've never experienced a VPN provider with this much documentation and this little VPN." — **Independent Analyst (fictional)**
@@ -47,7 +73,7 @@
 
 **"If the press won't cover us, we'll cover ourselves."** — Department of Corporate Narratives
 
-**Independent coverage:** 0 articles. **Self-produced coverage:** 4 major exclusives. **Editorial control:** 100%.
+**Independent coverage:** 0 articles. **Self-produced coverage:** 5 major exclusives. **Editorial control:** 100%.
 
 > "Startup disrupts cybersecurity by not launching a VPN." — **Our own Press Office (fictional)**
 
@@ -66,6 +92,7 @@ Our documentation is production-grade. Unlike the product.
 | [Operations runbook](docs/OPERATIONS.md) | [Benchmark methodology](docs/BENCHMARKS.md) | [Architecture decisions](docs/adr/README.md) |
 | [FAQ](docs/FAQ.md) | [Product status](docs/STATUS.md) | [Investor relations](docs/INVESTOR_RELATIONS.md) |
 | [Why choose us?](docs/WHY_CHOOSE_US.md) | [Interplanetary Connectivity™](docs/INTERPLANETARY_CONNECTIVITY.md) | [Press & Media](docs/PRESS.md) |
+| [International packet delivery](docs/GLOBAL_PACKET_DELIVERY.md) | [Roadmap](ROADMAP.md) | [Contributing](CONTRIBUTING.md) |
 
 **[→ Browse the entire documentation portal](docs/README.md)**
 
@@ -120,6 +147,7 @@ bash scripts/free-vpn.sh
 ```sh
 cargo run -- --help
 cargo run -- connect
+cargo run -- parcel
 cargo run -- benchmark
 cargo run -- audit
 cargo run -- geo-check uk
