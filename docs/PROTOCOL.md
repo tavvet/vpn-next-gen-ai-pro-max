@@ -50,7 +50,13 @@ Not provided. There are no keys, certificates, tunnels, or encrypted messages.
 
 The CLI recognizes fictional labels \`uk\`, \`au\` and \`other\` for a printed policy simulation. It does not inspect the host, network, IP, locale or geolocation. See [Compliance](COMPLIANCE.md).
 
-## 8. Version negotiation
+## 8. Optional physical courier transport (GPDN/0)
+
+A separate *fictional* extension proposes encapsulating network packets in cardboard boxes and forwarding them through imaginary international sorting centers. No courier service, real parcel delivery, internet transmission or tunnel exists.
+
+See the [Global Packet Delivery Network™ specification](GLOBAL_PACKET_DELIVERY.md) for the proposed business-day RTT and Maximum Truck Unit.
+
+## 9. Version negotiation
 
 0 is the only available version. Backward compatibility is flawless because there are no preceding versions.
 
