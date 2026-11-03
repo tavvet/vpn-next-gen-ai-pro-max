@@ -21,12 +21,15 @@ All commands only print local text. None establish a VPN, encrypt traffic, inspe
 ~~~sh
 cargo run -- --help
 cargo run -- connect
+cargo run -- parcel
 cargo run -- geo-check uk
 cargo run -- geo-check au
 cargo run -- benchmark
 cargo run -- audit
 cargo test
 ~~~
+
+For the fictional logistics protocol and an explanation of Maximum Truck Units, see [GPDN/0](GLOBAL_PACKET_DELIVERY.md).
 
 ## Exit codes
 
