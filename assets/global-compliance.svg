@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="864" viewBox="0 0 1536 864" role="img" aria-labelledby="title desc">
+<title id="title">VPN Next Gen AI Pro Max — Global Compliance Center</title>
+<desc id="desc">Satirical neon technology banner featuring Moscow, Pyongyang, Beijing and Brussels. Regulatory vibes. Restrictions first, product later. Not a functioning VPN.</desc>
+<defs>
+  <linearGradient id="bg" x2=".85" y2="1"><stop stop-color="#060a21"/><stop offset=".53" stop-color="#0a173c"/><stop offset="1" stop-color="#160920"/></linearGradient>
+  <linearGradient id="horizon" x2="0" y2="1"><stop stop-color="#132b63"/><stop offset=".6" stop-color="#09132f"/><stop offset="1" stop-color="#100818"/></linearGradient>
+  <linearGradient id="blue" x2="0" y2="1"><stop stop-color="#acfbff"/><stop offset=".5" stop-color="#2f99ff"/><stop offset="1" stop-color="#0c234f"/></linearGradient>
+  <linearGradient id="red" x2="0" y2="1"><stop stop-color="#ffe7ee"/><stop offset=".56" stop-color="#ff5a74"/><stop offset="1" stop-color="#ac1538"/></linearGradient>
+  <linearGradient id="text" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".72" stop-color="#e0edff"/><stop offset="1" stop-color="#55a9ed"/></linearGradient>
+  <radialGradient id="globe" cx=".5" cy=".2" r=".8"><stop stop-color="#123e78"/><stop offset=".55" stop-color="#0d183e"/><stop offset="1" stop-color="#080f26"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#3172b9" stroke-opacity=".17" stroke-width="1"/></pattern>
+  <filter id="blueglow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="redglow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="globeclip"><ellipse cx="768" cy="420" rx="642" ry="320"/></clipPath>
+</defs>
+
+<rect width="1536" height="864" fill="url(#bg)"/>
+<rect width="1536" height="864" fill="url(#grid)" opacity=".8"/>
+<path d="M0 98H270l36-28M1536 98h-270l-36-28M0 805h330l35 31M1536 805h-330l-35 31" fill="none" stroke="#fa3458" stroke-width="3"/>
+<path d="M0 110H220M1316 110h220M0 793h310M1226 793h310" stroke="#ff3b67" stroke-width="3" filter="url(#redglow)"/>
+<text x="768" y="48" font-family="Arial,Helvetica,sans-serif" font-size="31" text-anchor="middle" font-weight="800" letter-spacing="3" fill="#e7f6ff">MOSCOW. PYONGYANG. BEIJING. BRUSSELS.</text>
+<path d="M292 60H1244" stroke="#73d6ff" stroke-width="2" opacity=".55"/>
+
+<!-- Decorative stylized connected globe, not geographic routing information. -->
+<ellipse cx="768" cy="420" rx="642" ry="320" fill="url(#globe)" stroke="#23b4ff" stroke-width="5" filter="url(#blueglow)"/>
+<g clip-path="url(#globeclip)" fill="none" stroke="#3688d7" stroke-width="2" opacity=".32">
+<ellipse cx="768" cy="420" rx="490" ry="320"/><ellipse cx="768" cy="420" rx="290" ry="320"/><ellipse cx="768" cy="420" rx="140" ry="320"/>
+<path d="M100 345 Q768 235 1436 345M100 405 Q768 335 1436 405M100 470 Q768 535 1436 470M100 555 Q768 645 1436 555"/>
+<path d="M768 100V740M120 420H1416"/>
+</g>
+<path d="M290 357Q480 160 736 260T1240 350" fill="none" stroke="#155eae" stroke-width="23" opacity=".17" filter="url(#blueglow)"/>
+<g fill="none" stroke="#ff5175" stroke-width="4" filter="url(#redglow)">
+<path d="M310 340Q520 162 709 296Q858 415 1035 345Q1170 296 1280 362" stroke-dasharray="16 9"/>
+</g>
+<g fill="none" stroke="#7de6ff" stroke-width="2.5" opacity=".9">
+<path d="M310 340Q520 162 709 296Q858 415 1035 345Q1170 296 1280 362"/>
+</g>
+<g fill="#fff" stroke="#ff5678" stroke-width="7" filter="url(#redglow)">
+<circle cx="310" cy="340" r="10"/><circle cx="709" cy="296" r="10"/><circle cx="1035" cy="345" r="10"/><circle cx="1280" cy="362" r="10"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="800" text-anchor="middle" fill="#fff">
+<g><rect x="216" y="287" width="188" height="37" rx="7" fill="#270f29" stroke="#ff6788" stroke-width="2"/><text x="310" y="313">BRUSSELS</text></g>
+<g><rect x="629" y="243" width="160" height="37" rx="7" fill="#270f29" stroke="#ff6788" stroke-width="2"/><text x="709" y="269">MOSCOW</text></g>
+<g><rect x="963" y="292" width="144" height="37" rx="7" fill="#270f29" stroke="#ff6788" stroke-width="2"/><text x="1035" y="318">BEIJING</text></g>
+<g><rect x="1182" y="307" width="196" height="37" rx="7" fill="#270f29" stroke="#ff6788" stroke-width="2"/><text x="1280" y="333">PYONGYANG</text></g>
+</g>
+<!-- Main marketing reveal -->
+<rect x="158" y="380" width="1220" height="244" fill="#060a21" opacity=".82" rx="20"/>
+<path d="M190 388H1346M190 617H1346" stroke="#ef3558" stroke-width="3" filter="url(#redglow)"/>
+<text x="768" y="443" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-style="italic" letter-spacing="2" font-size="74" fill="url(#text)" text-anchor="middle">WHAT BRINGS YOU TOGETHER?</text>
+<text x="768" y="526" font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="7" font-size="73" fill="url(#red)" stroke="#fa365e" stroke-width=".8" text-anchor="middle" filter="url(#redglow)">REGULATORY VIBES.</text>
+<text x="768" y="581" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="5" font-size="30" fill="#92dfff" text-anchor="middle">RESTRICTIONS FIRST. PRODUCT LATER.</text>
+<!-- Abstract skyline -->
+<path d="M0 750V697h60v-52h29v52h61v-95h28v95h40v-32h44v32h67v-62h33v62h58v-87h23v87h54v-36h55v36h66v-116h25v116h60v-37h55v37h55v-81h40v81h52v-44h37v44h60v-75h32v75h63v-112h24v112h66v-45h36v45h70v-60h33v60h62v-92h26v92h56v-45h45v45h52v-75h24v75h90v-52h45v52h48v53Z" fill="url(#horizon)" stroke="#2e75b3" stroke-opacity=".7" stroke-width="2"/>
+<path d="M0 757H1536" stroke="#3fb3fb" stroke-width="4" opacity=".8" filter="url(#blueglow)"/>
+
+<text x="768" y="690" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-size="44" font-style="italic" font-weight="900" letter-spacing="3" fill="url(#text)">VPN NEXT GEN AI <tspan fill="#ff6788">PRO MAX™</tspan></text>
+<text x="768" y="729" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-size="22" letter-spacing="7" fill="#83d4ff">GLOBAL COMPLIANCE CENTER</text>
+
+<path d="M170 795H1366" stroke="#eb2d52" stroke-width="2"/>
+<text x="768" y="826" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-size="18" letter-spacing="2.5" fill="#b5bfdf">SATIRE ONLY · NO REAL VPN · NO NETWORK CONNECTIVITY · NO ACTUAL REGIONAL BLOCKS</text>
+</svg>
