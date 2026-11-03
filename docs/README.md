@@ -21,6 +21,10 @@ Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategi
 
 - [Interplanetary Connectivity™ — Starman Edition](INTERPLANETARY_CONNECTIVITY.md) — theoretical light-speed signal propagation, zero actual Tesla connections, unlimited investor excitement
 
+## International Logistics Division
+
+- [Global Packet Delivery Network™ — GPDN/0](GLOBAL_PACKET_DELIVERY.md) — how we allegedly ship network packets in cardboard boxes using an entirely fictional international courier ecosystem. Actual shipments: none.
+
 ## Product documentation
 
 | Area | Documentation | Operational objective |
@@ -28,6 +32,7 @@ Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategi
 | Onboarding | [Getting started](GETTING_STARTED.md) | Reach your first non-connection in under a minute |
 | Architecture | [System architecture](ARCHITECTURE.md) | Understand the industry's leanest data plane |
 | Protocol | [NGT/0 specification](PROTOCOL.md) | Review the formal zero-packet wire protocol |
+| Logistics | [GPDN/0 packet delivery](GLOBAL_PACKET_DELIVERY.md) | Explore cardboard encapsulation and Maximum Truck Units |
 | Operations | [Operations runbook](OPERATIONS.md) | Manage a system with zero running services |
 | Command line | [CLI reference](CLI_REFERENCE.md) | Learn our flagship connect and audit commands |
 
