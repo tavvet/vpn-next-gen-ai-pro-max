@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/status-pre--product-orange" alt="Pre-product">
 <img src="https://img.shields.io/badge/AI-in%20the%20name-blueviolet" alt="AI in the name">
-<img src="https://img.shields.io/badge/valuation-%2425B%20(in%20our%20hearts)-brightgreen" alt="Valuation">
+<img src="https://img.shields.io/badge/valuation-%24180B%20(fictional)-brightgreen" alt="Valuation">
 <img src="https://img.shields.io/badge/Rust-yes-brown" alt="Rust">
 </p>
 
@@ -43,6 +43,18 @@
 
 **[→ See all the reasons to choose us (and why you shouldn't use it as a VPN)](docs/WHY_CHOOSE_US.md)**
 
+## 📰 Press & Media
+
+**"If the press won't cover us, we'll cover ourselves."** — Department of Corporate Narratives
+
+**Independent coverage:** 0 articles. **Self-produced coverage:** 4 major exclusives. **Editorial control:** 100%.
+
+> "Startup disrupts cybersecurity by not launching a VPN." — **Our own Press Office (fictional)**
+
+From the world's first **undefined-p99 performance breakthrough** to an **interplanetary Tesla Roadster rollout with zero packets**, our communications team has been exceptionally busy.
+
+**[→ Read the Press & Media Center — every headline written by us](docs/PRESS.md)**
+
 ## 📚 Documentation — Enterprise Knowledge Center
 
 Our documentation is production-grade. Unlike the product.
@@ -53,7 +65,7 @@ Our documentation is production-grade. Unlike the product.
 | [CLI reference](docs/CLI_REFERENCE.md) | [NGT/0 protocol spec](docs/PROTOCOL.md) | [Regional compliance](docs/COMPLIANCE.md) |
 | [Operations runbook](docs/OPERATIONS.md) | [Benchmark methodology](docs/BENCHMARKS.md) | [Architecture decisions](docs/adr/README.md) |
 | [FAQ](docs/FAQ.md) | [Product status](docs/STATUS.md) | [Investor relations](docs/INVESTOR_RELATIONS.md) |
-| [Why choose us?](docs/WHY_CHOOSE_US.md) | [Interplanetary Connectivity™](docs/INTERPLANETARY_CONNECTIVITY.md) | [Contributing](CONTRIBUTING.md) |
+| [Why choose us?](docs/WHY_CHOOSE_US.md) | [Interplanetary Connectivity™](docs/INTERPLANETARY_CONNECTIVITY.md) | [Press & Media](docs/PRESS.md) |
 
 **[→ Browse the entire documentation portal](docs/README.md)**
 
