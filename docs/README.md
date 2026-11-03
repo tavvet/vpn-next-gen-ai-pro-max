@@ -10,6 +10,10 @@ Welcome to the official documentation for the world's most comprehensively docum
 
 Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategic benefits of deploying a zero-packet architecture and why it should never be mistaken for a real VPN.
 
+## Space Programs
+
+- [Interplanetary Connectivity™ — Starman Edition](INTERPLANETARY_CONNECTIVITY.md) — our fictional Tesla Roadster mission, complete with theoretical light speed and exactly zero transmitted packets.
+
 ## Product documentation
 
 | Area | Documentation | Operational objective |
