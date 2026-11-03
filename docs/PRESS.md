@@ -15,7 +15,7 @@
 | Media impact metric | Q4 preliminary report |
 | --- | --- |
 | Verified independent press articles | **0** |
-| Press releases written by ourselves | **4** |
+| Press releases written by ourselves | **5** |
 | Percentage of coverage under our editorial control | **100%** |
 | Negative coverage | **0** — no outside coverage exists |
 | Company valuation | **$180B** — purely fictional, adjusted for vibes |
@@ -76,6 +76,19 @@ Engineers later clarified that electromagnetic propagation speed is not network 
 
 **Read the whitepaper:** [Interplanetary Connectivity™ — Starman Edition](INTERPLANETARY_CONNECTIVITY.md)
 
+### 05 · LOGISTICS BREAKTHROUGH: Startup Ships Network Packets Through Every International Delivery Network — Without Partnering With Any
+
+**Source:** Fictional International Parcel Networks Desk, VPN Next Gen AI Pro Max™  
+**Classification:** Entirely self-authored fictional logistics satire
+
+After months of deliberation, the company has unveiled **Global Packet Delivery Network (GPDN/0)**, a revolutionary concept under which IP packets are printed on paper, encapsulated inside cardboard boxes, and forwarded through an imaginary worldwide web of parcel sorting centers.
+
+"We're finally able to promise an RTT of several business days without even sending a packet," declared the fictional VP of Physical Networking. "Customers will appreciate that our ACKs are signed delivery receipts and our congestion algorithm is a warehouse queue."
+
+The service has **zero real delivery partners, zero shipped parcels, zero transmitted packets**, and zero functional VPN connections. No existing international courier network has been named, contacted or integrated.
+
+**Read the technical details:** [Global Packet Delivery Network™](GLOBAL_PACKET_DELIVERY.md)
+
 ---
 
 ## 🎙️ Exclusive Interview With Our Founder
@@ -114,6 +127,7 @@ Journalists, fictional journalists, and technical readers are welcome to use the
 - [Global Compliance Center campaign artwork (SVG)](../assets/global-compliance.svg)
 - [Why Choose Us?](WHY_CHOOSE_US.md) — self-described differentiation
 - [System Architecture](ARCHITECTURE.md) — actual zero-network design
+- [Worldwide Packet Delivery](GLOBAL_PACKET_DELIVERY.md) — fictional cardboard packet routing
 - [Security Model](SECURITY.md) — complete disclosure of non-functionality
 - [Investor Relations](INVESTOR_RELATIONS.md) — absolutely fictional valuation
 
