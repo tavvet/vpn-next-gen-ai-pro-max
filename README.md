@@ -33,6 +33,7 @@
 - **Precision benchmarking:** no false 0 ms p99 — we report **undefined**, as mathematics intended.
 - **No vendor lock-in:** there's no vendor service to lock you into.
 - **Rust-powered:** the compiler is our most senior engineer.
+- **Interplanetary speed:** our marketing reaches Elon Musk's Tesla Roadster at almost light speed. The actual VPN still sends zero packets. [Starman Edition →](docs/INTERPLANETARY_CONNECTIVITY.md)
 
 > "I've never experienced a VPN provider with this much documentation and this little VPN." — **Independent Analyst (fictional)**
 
