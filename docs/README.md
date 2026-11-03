@@ -43,6 +43,8 @@ Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategi
 
 ## Corporate resources
 
+- [Press & Media Center](PRESS.md) — four self-authored exclusives, zero independently verified articles, and full fictional editorial control
+
 - [Investor relations](INVESTOR_RELATIONS.md) — our valuation is a narrative, not a financial instrument
 - [Roadmap](../ROADMAP.md) — planned monetization of a product that does not exist
 - [FAQ](FAQ.md) — no question too premature
