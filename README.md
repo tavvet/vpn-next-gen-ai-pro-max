@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/Rust-yes-brown" alt="Rust">
 </p>
 
+![Global Compliance Center — Moscow, Pyongyang, Beijing, Brussels. What brings you together? Regulatory vibes.](assets/global-compliance.svg)
+
+*Satirical promotional artwork. The product has no VPN connectivity, and the regional restrictions are fictional.*
+
 > [!CAUTION]
 > **THIS IS A PARODY. NOT A REAL VPN.** It does not create tunnels, encrypt traffic, provide privacy, sell subscriptions, or offer investments. Do not use it for network security.
 
