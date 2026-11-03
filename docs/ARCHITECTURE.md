@@ -19,6 +19,12 @@ flowchart LR
 
 The dashed arrow depicts something that **does not occur**. No packets are sent by the executable.
 
+## International Courier Abstraction (fictional, not implemented)
+
+Our documentation also includes a concept called **Global Packet Delivery Network (GPDN/0)**, in which packet routing is reimagined as international parcel sorting. It is a *satirical thought experiment only*, not a software subsystem, service integration or shipping operation. The actual Rust CLI can print a pretend shipping manifest but uses no networking or real logistics providers.
+
+[Read the physical packet logistics specification](GLOBAL_PACKET_DELIVERY.md).
+
 ## 2. Subsystems
 
 | Component | Implementation | Service-level objective |
