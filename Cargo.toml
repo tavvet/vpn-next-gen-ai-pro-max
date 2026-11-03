@@ -1,0 +1,9 @@
+[package]
+name = "vpn-next-gen-ai-pro-max"
+version = "0.0.1"
+edition = "2021"
+description = "A parody VPN that intentionally makes no network connections"
+license = "MIT"
+publish = false
+
+[dependencies]
