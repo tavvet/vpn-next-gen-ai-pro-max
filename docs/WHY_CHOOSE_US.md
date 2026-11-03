@@ -22,12 +22,15 @@ Most VPN companies waste valuable engineering resources implementing networking.
 | **Zero-Trust Governance™** | We don't trust our own performance claims | The only fully audited promise is that nothing connects |
 | **Global Compliance™** | Fictional UK/Australia policy statuses printed on demand | A multinational compliance department without geolocation |
 | **Rust-Powered Reliability™** | One Rust CLI that prints messages | Memory safety for the text of your disappointment |
+| **Interplanetary Velocity™** | Electromagnetic signals travel at c in vacuum, even when we don't send any | Space-grade branding; zero Tesla Roadster connections |
 
 ## The Starman Advantage™
 
 Other VPNs advertise "lightning-fast" speeds. We went one step further: **speed-of-light-fast*** — for a hypothetical signal sent through vacuum toward Elon Musk's Tesla Roadster. We haven't sent such a signal, and the CLI cannot send any signal. The physical constant is real; the product claim is a joke.
 
 *[→ Review the full Interplanetary Connectivity whitepaper](INTERPLANETARY_CONNECTIVITY.md)*
+
+**Interplanetary connectivity:** Why stop at global availability when you can promise marketing speeds approaching the speed of light toward Elon Musk's Tesla Roadster? [See our Starman Edition technical dossier](INTERPLANETARY_CONNECTIVITY.md). Actual transmission: none.
 
 ## A transparent side-by-side comparison
 
