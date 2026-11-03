@@ -14,6 +14,10 @@ Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategi
 
 - [Interplanetary Connectivity™ — Starman Edition](INTERPLANETARY_CONNECTIVITY.md) — our fictional Tesla Roadster mission, complete with theoretical light speed and exactly zero transmitted packets.
 
+## Beyond Earth
+
+- [Interplanetary Connectivity™ — Starman Edition](INTERPLANETARY_CONNECTIVITY.md) — theoretical light-speed signal propagation, zero actual Tesla connections, unlimited investor excitement
+
 ## Product documentation
 
 | Area | Documentation | Operational objective |
