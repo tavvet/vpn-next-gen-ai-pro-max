@@ -14,6 +14,7 @@ Most VPN companies waste valuable engineering resources implementing networking.
 | Strategic differentiator | Our approach | Why it matters to the pitch deck |
 | --- | --- | --- |
 | **Zero-Copy Architecture™** | Zero packets transmitted; therefore zero packets copied | No need to profile memory copies when there is no traffic |
+| **Interplanetary Connectivity™** | Theoretical signal speed to a Tesla in space: c; actual packets: zero | We have outsourced performance engineering to physics |
 | **AI-Native DNA™** | "AI" appears in the product name | Reduces the need to actually integrate a model |
 | **Quantum-Adjacent Security™** | The words "quantum" and "security" appear in nearby documents | Future-proof branding without future-proof cryptography |
 | **Unlimited Scalability™** | Scales from zero active tunnels to zero active tunnels | No capacity planning or noisy neighbors |
@@ -21,6 +22,12 @@ Most VPN companies waste valuable engineering resources implementing networking.
 | **Zero-Trust Governance™** | We don't trust our own performance claims | The only fully audited promise is that nothing connects |
 | **Global Compliance™** | Fictional UK/Australia policy statuses printed on demand | A multinational compliance department without geolocation |
 | **Rust-Powered Reliability™** | One Rust CLI that prints messages | Memory safety for the text of your disappointment |
+
+## The Starman Advantage™
+
+Other VPNs advertise "lightning-fast" speeds. We went one step further: **speed-of-light-fast*** — for a hypothetical signal sent through vacuum toward Elon Musk's Tesla Roadster. We haven't sent such a signal, and the CLI cannot send any signal. The physical constant is real; the product claim is a joke.
+
+*[→ Review the full Interplanetary Connectivity whitepaper](INTERPLANETARY_CONNECTIVITY.md)*
 
 ## A transparent side-by-side comparison
 
