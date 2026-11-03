@@ -12,6 +12,21 @@
 > [!CAUTION]
 > **THIS IS A PARODY. NOT A REAL VPN.** It does not create tunnels, encrypt traffic, provide privacy, sell subscriptions, or offer investments. Do not use it for network security.
 
+## 🏆 Why Choose Us?
+
+**Because other VPNs are distracted by things like *working*.**
+
+- **Zero-copy architecture:** zero packets transmitted, zero packets copied.
+- **AI-native:** it says AI in the product name. Due diligence complete.
+- **Global compliance:** we have fictional UK and Australia restrictions *before* launching a network service.
+- **Precision benchmarking:** no false 0 ms p99 — we report **undefined**, as mathematics intended.
+- **No vendor lock-in:** there's no vendor service to lock you into.
+- **Rust-powered:** the compiler is our most senior engineer.
+
+> "I've never experienced a VPN provider with this much documentation and this little VPN." — **Independent Analyst (fictional)**
+
+**[→ See all the reasons to choose us (and why you shouldn't use it as a VPN)](docs/WHY_CHOOSE_US.md)**
+
 ## 📚 Documentation — Enterprise Knowledge Center
 
 Our documentation is production-grade. Unlike the product.
@@ -22,6 +37,7 @@ Our documentation is production-grade. Unlike the product.
 | [CLI reference](docs/CLI_REFERENCE.md) | [NGT/0 protocol spec](docs/PROTOCOL.md) | [Regional compliance](docs/COMPLIANCE.md) |
 | [Operations runbook](docs/OPERATIONS.md) | [Benchmark methodology](docs/BENCHMARKS.md) | [Architecture decisions](docs/adr/README.md) |
 | [FAQ](docs/FAQ.md) | [Product status](docs/STATUS.md) | [Investor relations](docs/INVESTOR_RELATIONS.md) |
+| [Why choose us?](docs/WHY_CHOOSE_US.md) | [Roadmap](ROADMAP.md) | [Contributing](CONTRIBUTING.md) |
 
 **[→ Browse the entire documentation portal](docs/README.md)**
 
