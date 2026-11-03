@@ -15,6 +15,20 @@ fn output(command: &str) -> String {
              This is a joke, not a VPN. Your traffic is unchanged.",
             if command == "free" { "Free" } else { "Pro Max (aspirational)" }
         ),
+        "parcel" => String::from(
+            "VPN Next Gen AI Pro Max™ — Global Packet Delivery Network (GPDN/0)\n\
+             Preparing packet for international courier delivery...\n\
+             [✓] Packet-to-parcel encoding: IMAGINARY\n\
+             [✓] Cardboard encapsulation: THEORETICAL\n\
+             [✓] Sorting center dispatch: NOT CONTACTED\n\
+             [✓] Customs paperwork: SELF-APPROVED (FICTIONAL)\n\
+             [✓] Delivery receipt / ACK: NOT RECEIVED\n\
+             Tracking number: DOES-NOT-EXIST\n\
+             Shipped parcels: 0\n\
+             Network packets sent: 0\n\
+             Cost: $0\n\
+             THIS IS A PARODY. NOTHING WAS SENT. NOT A VPN."
+        ),
         "benchmark" => String::from(
             "VPN Next Gen AI Pro Max™ Benchmark\n\
              Packets sent: 0\n\
@@ -48,7 +62,7 @@ fn output(command: &str) -> String {
         ),
         "--help" | "-h" | "help" => String::from(
             "VPN Next Gen AI Pro Max™ (parody, NOT a VPN)\n\
-             Usage: cargo run -- [free|connect|benchmark|audit|ipo|geo-check REGION|--help]\n\
+             Usage: cargo run -- [free|connect|parcel|benchmark|audit|ipo|geo-check REGION|--help]\n\
              Every command prints text only. No network operations are performed."
         ),
         _ => String::from(
@@ -102,6 +116,14 @@ mod tests {
         assert!(report.contains("undefined (0/0)"));
         assert!(!report.contains("0% packet loss"));
     }
+    #[test]
+    fn parcel_delivery_never_claims_real_shipping() {
+        let report = output("parcel");
+        assert!(report.contains("Shipped parcels: 0"));
+        assert!(report.contains("NOT CONTACTED"));
+        assert!(report.contains("NOT A VPN"));
+    }
+
     #[test]
     fn geography_is_only_a_user_selected_joke() {
         assert!(geo_check(Some("uk")).contains("tea-based"));
