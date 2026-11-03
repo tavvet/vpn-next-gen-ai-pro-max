@@ -24,6 +24,10 @@ No packets were transmitted toward Elon Musk's Tesla Roadster. Therefore no RTT,
 
 [Read the fictional Starman Edition whitepaper](INTERPLANETARY_CONNECTIVITY.md).
 
+## Deep-space performance research
+
+Our fictional **Starman Edition** quotes the speed of light in vacuum (299,792,458 m/s) as its marketing benchmark. That figure is a propagation speed, **not a measured VPN throughput or latency**. No packets are sent to any spacecraft or vehicle. See [Interplanetary Connectivity™](INTERPLANETARY_CONNECTIVITY.md).
+
 ## How to reproduce
 
 ~~~sh
