@@ -14,7 +14,15 @@
 | Throughput | **N/A** | No data plane |
 | Packets copied | 0 | Correct, but not an accomplishment |
 | Compiler confidence | High | The compiler is our most senior engineer |
+| Theoretical propagation in vacuum | 299,792,458 m/s | Speed of light, **not** a data rate or a VPN benchmark |
+| Tesla Roadster uplink RTT | **Undefined** | No transmitted packets or link exists |
 | Market valuation | $25B (fictional) | Source: founder optimism |
+
+## Space Program Benchmarking
+
+No packets were transmitted toward Elon Musk's Tesla Roadster. Therefore no RTT, throughput, or p99 measurements exist. **Light travels in vacuum at 299,792,458 m/s**, but propagation speed and network throughput are different units and concepts. Investor Relations requested that we add several exclamation marks instead.
+
+[Read the fictional Starman Edition whitepaper](INTERPLANETARY_CONNECTIVITY.md).
 
 ## How to reproduce
 
