@@ -25,6 +25,11 @@ Our [enterprise differentiation dossier](WHY_CHOOSE_US.md) outlines the strategi
 
 - [Global Packet Delivery Network™ — GPDN/0](GLOBAL_PACKET_DELIVERY.md) — how we allegedly ship network packets in cardboard boxes using an entirely fictional international courier ecosystem. Actual shipments: none.
 
+## Marketing website
+
+- [Website operations and GitHub Pages guide](WEBSITE.md) — static satirical marketing site, local preview, publishing, and future custom domain.
+- [Website source](../site/index.html) — all buttons are harmless local simulations, not real VPN operations.
+
 ## Product documentation
 
 | Area | Documentation | Operational objective |
