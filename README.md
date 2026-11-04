@@ -16,6 +16,16 @@
 > [!CAUTION]
 > **THIS IS A PARODY. NOT A REAL VPN.** It does not create tunnels, encrypt traffic, provide privacy, sell subscriptions, or offer investments. Do not use it for network security.
 
+## 🌐 Official Website — Before the Actual VPN
+
+Our marketing website is now **more functional than our network stack**.
+
+- [Browse the site source](site/index.html) — responsive corporate landing page with interactive, harmless simulated activation.
+- [Website deployment guide](docs/WEBSITE.md) — GitHub Pages and optional custom domain.
+- [Marketing site stylesheet](site/styles.css) — enterprise-grade neon, zero premium subscriptions.
+
+*The site is not claimed to be publicly deployed yet. GitHub Pages must be enabled in the repository settings. No actual VPN, payment service, or geolocation is present.*
+
 ## 🚀 Interplanetary Connectivity™ — Starman Edition
 
 **Our signal to Elon Musk's Tesla Roadster in space travels at nearly the speed of light!***
@@ -92,7 +102,7 @@ Our documentation is production-grade. Unlike the product.
 | [Operations runbook](docs/OPERATIONS.md) | [Benchmark methodology](docs/BENCHMARKS.md) | [Architecture decisions](docs/adr/README.md) |
 | [FAQ](docs/FAQ.md) | [Product status](docs/STATUS.md) | [Investor relations](docs/INVESTOR_RELATIONS.md) |
 | [Why choose us?](docs/WHY_CHOOSE_US.md) | [Interplanetary Connectivity™](docs/INTERPLANETARY_CONNECTIVITY.md) | [Press & Media](docs/PRESS.md) |
-| [International packet delivery](docs/GLOBAL_PACKET_DELIVERY.md) | [Roadmap](ROADMAP.md) | [Contributing](CONTRIBUTING.md) |
+| [International packet delivery](docs/GLOBAL_PACKET_DELIVERY.md) | [Website operations](docs/WEBSITE.md) | [Site source](site/index.html) |
 
 **[→ Browse the entire documentation portal](docs/README.md)**
 
